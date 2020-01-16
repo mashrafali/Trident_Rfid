@@ -1,0 +1,1 @@
+echo n00rinfra | openssl enc -aes-256-cbc -a -salt -pass pass:NOOR
